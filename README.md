@@ -1,9 +1,9 @@
 <h1>Projeto Jogo de Adivinhação</h1>
 
 <p align="center">
-  <img alt="Projeto Jogo de Adivinhação" src=".github/preview.png">
+  <img alt="Projeto Jogo de Adivinhação" src=".github/preview.png" width="65%">
   <br>
-  <img alt="Projeto Jogo de Adivinhação" src=".github/preview2.png">
+  <img alt="Projeto Jogo de Adivinhação" src=".github/preview2.png" width="65%">
 </p>
 
 <br>
