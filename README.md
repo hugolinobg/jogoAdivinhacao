@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto prático de uma Jogo de Adivinhação da Trilha Explorer da Rocketseat.
 
-- [Acesse o projeto finalizado, online](https://hugolinobg.github.io/HorrorGame/)
+- [Acesse o projeto finalizado, online](https://hugolinobg.github.io/jogoAdivinhacao/)
 
 ## 🔖 Layout
 
